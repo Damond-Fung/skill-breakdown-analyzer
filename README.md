@@ -26,5 +26,5 @@ npx skills add https://github.com/Damond-Fung/skill-breakdown-analyzer --skill s
 
 ## Notes
 
-- Replace install source with your real GitHub repo or local path before publishing.
-- Review `SKILL.md`, `scripts/`, and `references/` before publishing.
+- Requires Node.js >= 18.
+- For local static scan, run: `node ./scripts/analyze-skill.mjs --skill <nameOrPath>`.
