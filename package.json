@@ -1,0 +1,20 @@
+{
+  "name": "skill-breakdown-analyzer",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "分析任意 Skill 的能力结构，输出结构化能力拆解报告与改造建议。 Invoke when 用户要拆解/复盘/对比/改造一个 Skill，或要把 SKILL.md 写得更可触发、更可交付时。",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "agent-skill",
+    "skill-breakdown-analyzer",
+    "meta-skill",
+    "workflow-executor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Damond-Fung/skill-breakdown-analyzer.git"
+  },
+  "homepage": "https://github.com/Damond-Fung/skill-breakdown-analyzer"
+}
